@@ -1,0 +1,242 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+
+
+body{
+    margin:0;
+
+}
+.uni-padding{
+    /* padding:7p; */
+}
+#topbar{
+    background-color:#576574 ;
+    padding-top:18px;
+    padding-bottom:18px;
+    overflow:auto;
+}
+#tollfree{
+    float:left;
+    color: #fdfdfd;
+}
+#social-icon{
+    float:right;
+    margin-top: 5px;
+    /* padding:0;  */
+}
+.fab{
+    background-color:#fdfdfd; 
+    color:#576574;
+    padding:7px;
+    border-radius:50%;
+}
+.fa-facebook{
+    padding:9px 7px;
+}
+.fa-whatsapp{
+    padding:9px 7px;
+}
+.fa-instagram{
+    padding:9px 7px;
+}
+#logobar img{
+    width:150px;
+  margin-top: 20px;
+  margin-left: 50px;
+  padding:18px 0px;
+}
+#navbar{
+    background-color: #ee5253;
+}
+#navbar ul li{
+    display:inline-block;
+    padding:20px;
+    padding-right:25px; 
+}
+#navbar ul{
+    margin:0;
+    padding:0;
+}
+#navbar ul li a{
+    color:white;
+    text-decoration:none ;
+
+}
+/* poster */
+#poster{
+    background-image: url(./images/banner.jpg);
+    height:500px;
+    background-position:center ;
+    background-size:cover ;
+    display:flex;
+    justify-content:center ;
+    align-items:center ;
+    color:white;
+    flex-direction:column ;
+}
+#poster h1{
+    font-size:50;
+   
+}
+#poster p{
+    font-size:18px;
+    text-align:center;
+}
+/* why us section */
+#whysection{
+    overflow:auto ;
+    float:bottom;
+}
+.red-hedding{
+    color:#ee5253;
+    text-align:center;
+    font-size:35px;
+    margin-top:20px;
+    margin-bottom:20px; ;
+
+}
+.section33{
+     width:25%; 
+    float:left;
+    text-align:center;
+    margin:50px;
+  
+}
+
+    /* contact */
+    #contact-container{
+        background-color:#ee5253;
+        color:white;
+        overflow: auto;
+        padding-top:5px;
+        padding-bottom:1px;
+        padding-left:55px;
+      
+    }
+    .section70{
+        width:70%;
+        float:left;
+
+    }
+    .section30{
+width:30%;
+float:left;
+text-align:center ;
+padding-top:70px;
+    }
+    #contact-btn{
+        background-color:white ;
+        color:#ee5253;
+        padding:15px 50px;
+        text-decoration:none ;
+        border-radius:8px ;
+        font-weight:bold ;
+        font-size:18px ;
+    }
+    /* blog */
+
+    .section33 img{
+        max-width:100%;
+    }
+    .section33 a{
+        color:#ee5253;
+        font-weight:bold ;
+        text-decoration:none ;
+        font-size:20px ;
+     
+       
+    }
+    /* subcribe */
+    #subscribe-section{
+        background-color: #ee5253;
+        color:white;
+        overflow:auto;
+        padding-top:40px;
+        padding-bottom:40px;
+    }
+    .section50{
+width:50%;
+float:left;
+    }
+    .section50 h2{
+        font-size:27px;
+        text-align:right;
+        padding-right:50px;
+    }
+    .section50 form{
+        padding-top:25px;
+
+    }
+    .section50 input[type="text"]{
+padding:10px 15px;
+font-size:15px;
+color:#ee5253;
+margin-right:20px;
+border:0px;
+width:45%;
+    }
+    .section50 input[type="submit"]{
+padding:8px 35px;
+font-size:15px;
+color:#ee5253;
+border:0px;
+
+    }
+
+
+#imp-link{
+    background-color:#576574 ; 
+    color:white;
+    overflow: auto;
+}
+.div33{
+    width:33.33%;
+     float:left; 
+    padding:25px 50px; 
+     box-sizing:border-box; 
+
+}
+#h2{
+    float:left;
+    margin:200px;
+}
+.div33 h3{
+    text-decoration:underline ;
+    text-underline-offset: 8px;
+    text-decoration-thickness:2px ;
+   
+}
+#h3{
+    float:right;
+    overflow:auto ;
+}
+
+
+#footer-menu{
+    list-style:none ;
+    padding:0;
+}
+#footer-menu li{
+    padding-bottom:10px
+}
+#footer-menu li a{
+    text-decoration:none ;
+    color:white;
+}
+#footer-menu-container{
+    padding-left:10px;
+}
+#copyrigt{
+    background-color:#222f3e ;
+   text-align:center ; 
+    padding:15px;
+    color:white;
+    
+    
+}
+
+
+
+
